@@ -1,3 +1,2 @@
 # Run and Chase 
- 
-# RunAndChase
+ Simple University project with uses C# and Unity
