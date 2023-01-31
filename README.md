@@ -3,5 +3,5 @@
 
  <h3>Simple University project with uses C# and Unity </h3>
  
-![C#](https://img.shields.io/badge/c#-%23ED8B00.svg?style=for-the-badge&logo=C#&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%230095D5.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C#-%23ED8B00.svg?style=for-the-badge&logo=c#&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%230095D5.svg?style=for-the-badge&logo=unity&logoColor=black)
