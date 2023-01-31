@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="100"/>
 </div>
 
-<!--
 <h2> Run and Chase </a> </h2>
 
 <h3>Simple University project with uses C# and Unity </h3>
