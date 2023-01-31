@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<!--
 <h2> Run and Chase </a> </h2>
 
 <h3>Simple University project with uses C# and Unity </h3>
